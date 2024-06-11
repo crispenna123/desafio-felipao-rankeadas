@@ -1,6 +1,6 @@
 // Entrada de dados
-const vitorias = parseInt(("Digite o número de vitórias: "));
-const derrotas = parseInt(("Digite o número de derrotas: "));
+const vitorias = parseInt("Digite o número de vitórias: ");
+const derrotas = parseInt("Digite o número de derrotas: ");
 
 function calcularRank(vitorias, derrotas) {
   // Calcular o saldo de vitórias
